@@ -1,4 +1,4 @@
 # hello-world
-pierwszy pull
+#pierwszy pull
 //===
 pierwszy update :DD Wreszcie!!! xD
