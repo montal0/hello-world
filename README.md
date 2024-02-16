@@ -52,4 +52,4 @@ print("hello world")
 
 
 > photo instert test 
-    ![sample image](Screenshot from 2024-02-16 17-49-21.png "Sample title")
+    ![sample image](test-1-pic.png "sample title of the picture")
