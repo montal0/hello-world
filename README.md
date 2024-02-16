@@ -36,10 +36,16 @@ Column2
 
 print("hello world")
 
-```
 >> external link test 
 [test link ](wp.pl)
 
 
 > internal link test 
+
 [pierwszy pull link](#pierwszy):
+
+
+> link from todoist - test 
+[todoist test link](https://app.todoist.com/showTask?id=7636433594)
+    > testing todoist link inside of github 2024-02-16 16:57
+
