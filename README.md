@@ -37,3 +37,9 @@ Column2
 print("hello world")
 
 ```
+>> external link test 
+[test link ](wp.pl)
+
+
+> internal link test 
+[pierwszy pull link](#pierwszy):
